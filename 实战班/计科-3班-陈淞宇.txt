@@ -1,0 +1,6 @@
+#include<stdio.h>
+Int main()
+{
+Printf(¡°SiriYXR¡±);
+Return 0;
+}
